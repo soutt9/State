@@ -14,3 +14,6 @@
 
 ## Setup
 It is extremely easy get a compiled version from [releases](https://github.com/soutt9/State/releases/tag/c%2B%2B) or build it yourself.
+
+# Help
+If you get a compatability error then download this C++ distribution [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
