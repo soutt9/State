@@ -13,4 +13,4 @@
 
 
 ## Setup
-It is extremely easy get a compiled version from (releases)[https://github.com/soutt9/State/releases/tag/c%2B%2B] or build it yourself.
+It is extremely easy get a compiled version from [releases](https://github.com/soutt9/State/releases/tag/c%2B%2B) or build it yourself.
